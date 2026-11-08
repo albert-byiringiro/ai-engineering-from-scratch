@@ -29,8 +29,6 @@ Cargo.lock
 *.deps
 *.ji
 
-.env
-.env.local
 .env.*.local
 *.pem
 *.key
@@ -41,7 +39,6 @@ Thumbs.db
 *.swo
 *~
 .idea/
-.vscode/
 *.log
 
 data/
@@ -148,3 +145,4 @@ site/lesson-code/
 .project-validation/
 projects/*/solution/output/
 projects/*/solution/demo-output/
+config.bat
